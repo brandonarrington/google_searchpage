@@ -14,7 +14,7 @@ header {
 	background-image: url('./resources/logo.png');
 	background-position: left;
 	background-repeat: no-repeat;
-	background-size: 151px 54px;
+	background-size: 119px 51px;
     border-bottom: 1px solid #e4e4e4;
 	color: #666;
     height: 60px;
@@ -31,7 +31,7 @@ header input {
 	border: 1px solid #d9d9d9;
 	margin-top: 10px;
 	margin-bottom: 0px;
-	margin-left: 155px;
+	margin-left: 125px;
 	padding-left: 10px;
 	padding-right: 40px;
 	background-image: url('./resources/mic.png');
